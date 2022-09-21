@@ -4,4 +4,6 @@
   <img src="https://elixir-lang.org/images/logo/logo.png" width="200px" />
 </div>
 
-Abaixo está o código feito em elixir para a avaliação.
+
+
+Neste repositório está apenas o código feito em elixir para fins avaliativos da faculdade.
